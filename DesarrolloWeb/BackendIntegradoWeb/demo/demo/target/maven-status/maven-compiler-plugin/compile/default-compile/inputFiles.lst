@@ -1,0 +1,12 @@
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\controller\AuthController.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\dto\AuthResponse.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\dto\LoginRequest.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\dto\RegisterRequest.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\model\Role.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\model\User.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\repository\UserRepository.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\service\AuthService.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\service\impl\AuthServiceImpl.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\service\impl\UserServiceImpl.java
+C:\Users\leuss\Downloads\DesarrolloWeb\BackendIntegradoWeb\demo\demo\src\main\java\com\example\demo\service\UserService.java
